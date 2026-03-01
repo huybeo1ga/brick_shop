@@ -1,0 +1,30 @@
+{
+  "home": {
+    "title": "Premium tiles for every project",
+    "subtitle": "Quality - Aesthetics - Durability",
+    "cta": "View products",
+    "featured": "Featured products"
+  },
+  "header": {
+    "welcome": "Welcome to Tiến Dung Group",
+    "contact": "Contact",
+    "home": "HOME",
+    "about": "ABOUT US",
+    "products": "PRODUCTS",
+    "collections": "COLLECTIONS",
+    "categories": "CATEGORIES",
+    "contactPage": "CONTACT US"
+  },
+  "Hero": {
+    "slide1": {
+      "title": "ANTIQUE BRICKS",
+      "subtitle": "Architectural Heritage, Elevating Your Home"
+    },
+    "slide2": {
+      "title": "NATURAL STONE",
+      "subtitle": "Timeless Beauty for Your Space"
+    },
+    "button": "View More",
+    "button2": "Catalogue"
+  }
+}

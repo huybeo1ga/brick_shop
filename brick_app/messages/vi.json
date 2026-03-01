@@ -1,0 +1,30 @@
+{
+  "home": {
+    "title": "Gạch đá cao cấp cho mọi công trình",
+    "subtitle": "Chất lượng - Thẩm mỹ - Bền vững",
+    "cta": "Xem sản phẩm",
+    "featured": "Sản phẩm nổi bật"
+  },
+  "header": {
+    "welcome": "Chào mừng đến với Tập Đoàn Tiến Dung, chuyên cung cấp gạch đá cao cấp",
+    "contact": "Liên hệ",
+    "home": "TRANG CHỦ",
+    "about": "VỀ CHÚNG TÔI",
+    "products": "SẢN PHẨM",
+    "collections": "BỘ SƯU TẬP",
+    "categories": "DANH MỤC",
+    "contactPage": "LIÊN HỆ VỚI CHÚNG TÔI"
+  },
+  "Hero": {
+    "slide1": {
+      "title": "GẠCH CỔ",
+      "subtitle": "Di Sản Kiến Trúc, Đẳng Cấp Ngôi Nhà"
+    },
+    "slide2": {
+      "title": "ĐÁ TỰ NHIÊN",
+      "subtitle": "Vẻ Đẹp Vĩnh Cửu Cho Không Gian"
+    },
+    "button": "Xem Thêm",
+    "button2": "Xem Danh Mục"
+  }
+}
