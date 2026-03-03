@@ -25,6 +25,16 @@
       "subtitle": "Vẻ Đẹp Vĩnh Cửu Cho Không Gian"
     },
     "button": "Xem Thêm",
-    "button2": "Xem Danh Mục"
+    "button2": "Danh Mục"
+  },
+  "OurService": {
+    "title": "Dịch Vụ Của Chúng Tôi",
+    "subtitle": "Tiến Dung Mineral Group mang ý nghĩa “Vương giả trong khoáng sản” – thương hiệu thể hiện khát vọng nâng tầm giá trị và đưa đá tự nhiên Việt Nam ra thế giới.",
+    "description": "Được thành lập năm 1996, Tiến Dung Mineral Group đã trở thành một trong những nhà xuất khẩu và cung cấp đá tự nhiên hàng đầu Việt Nam. Công ty luôn đầu tư vào nguồn nhân lực và công nghệ, không ngừng đổi mới để cung cấp sản phẩm chất lượng cao đạt tiêu chuẩn quốc tế và dịch vụ thi công chuyên nghiệp."
+  },
+  "AboutPage": {
+    "title": "Giới thiệu về Công ty Cổ phần Tập đoàn Khoáng sản Tiến Dung",
+    "description": "Là một công ty xuất khẩu đá cẩm thạch hàng đầu tại Việt Nam, chúng tôi tự hào mang đến cho thế giới nhiều loại sản phẩm đá cẩm thạch chất lượng cao. Chúng tôi chủ động quản lý nguồn cung nhờ sở hữu các mỏ đá lớn tại Quỳ Hợp, Nghệ An.",
+    "button": "Xem thêm"
   }
 }

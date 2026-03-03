@@ -26,5 +26,15 @@
     },
     "button": "View More",
     "button2": "Catalogue"
+  },
+  "OurService": {
+    "title": "Our Service",
+    "subtitle": "Hoang Gia Mineral Group means “Royalty in Minerals” – a brand embodying the aspiration to elevate value and bring Vietnamese natural stone to the world.",
+    "description": "Founded in 1996, Hoang Gia Mineral Group has become one of Vietnam’s leading exporters and suppliers of natural stone. The company consistently invests in human resources and technology, continuously innovating to provide high-quality products that meet international standards and professional construction services."
+  },
+  "AboutPage": {
+    "title": "Introduction to Hoang Gia Mineral Group Joint Stock Company",
+    "description": "As a leading marble exporter in Vietnam, we proudly deliver high-quality natural stone products to the world. We proactively manage marble supply thanks to owning large quarries in Quy Hop, Nghe An.",
+    "button": "Read More"
   }
 }

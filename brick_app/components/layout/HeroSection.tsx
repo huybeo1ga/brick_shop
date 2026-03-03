@@ -142,7 +142,7 @@ const HeroSlider: React.FC = () => {
       <div className="custom-pagination hidden md:flex absolute bottom-6 left-1/2 -translate-x-1/2 z-50 gap-3"></div>
 
       {/* Pagination */}
-      <div className="custom-pagination absolute !top-8 !left-1/2 !-translate-x-1/2 !z-50 flex gap-3 !w-auto !bottom-auto"></div>
+      <div className="custom-pagination absolute top-8! !left-1/2 !-translate-x-1/2 !z-50 flex gap-3 !w-auto !bottom-auto"></div>
 
       {/* Navigation */}
       <div className="absolute right-0 top-1/2 -translate-y-1/2 z-50 flex flex-col bg-white border-l border-gray-200 shadow-2xl">

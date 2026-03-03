@@ -1,9 +1,11 @@
 // app/[locale]/page.tsx
 
+import AboutSection from "@/components/layout/AboutSection"
+import BlogsCarousel from "@/components/layout/BlogsCarousel"
 import HeroSection from "@/components/layout/HeroSection"
+import OurService from "@/components/layout/OurService"
 import ProductCard from "@/components/layout/ProductCards"
 import Products from "@/components/layout/Products"
-import ProductListing from "@/components/layout/ProductsList"
 import { getTranslations } from "next-intl/server"
 import Link from "next/link"
 
@@ -21,7 +23,9 @@ export default async function HomePage({
     <div className="space-y-12">
       <HeroSection />
       <Products params={{ locale }} />
-      <ProductListing />
+      <AboutSection />
+      <OurService />
+      <BlogsCarousel />
     </div>
   )
 }
