@@ -108,7 +108,7 @@ export default function AboutPage({
       </section>
 
       {/* CTA */}
-      <section className="bg-blue-600 text-white text-center py-12">
+      <section className="bg-white text-gray-700 text-center py-12">
         <h3 className="text-2xl font-semibold">{t.ctaText}</h3>
         <p className="mt-2">
           <a
